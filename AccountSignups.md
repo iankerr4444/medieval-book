@@ -48,7 +48,7 @@ We will talk more in week four about how we will be using Omeka.
 
 You are currently reading this on Github. So you already know what it looks like. This file is written in "Markdown", a simple text formatting language. For a guide to writing .md (markdown) files, take a look [here](https://help.github.com/categories/writing-on-github/). But your first steps should be:
 
-1. Sign up for a GitHub account - either by going to the top right hand corner of this page and click on the Sign Up link or by clicking (here)[https://github.com/join?source=header-repo].  
+1. Sign up for a GitHub account - either by going to the top right hand corner of this page and click on the Sign Up link or by clicking (here)[https://github.com/join?source=header-repo]. Go to Slack and in the channel, "Github" [integrate your account](https://get.slack.help/hc/en-us/articles/232289568-GitHub-for-Slack).  
 2. Navigate to my [repository](https://github.com/MarcSaurette/medieval-book) and press on the botton "Fork" at the top right hand corner of the page. "Forking" copies the contents of my repository to your own Github repository.
 3. Complete the GitHub [starter guide](https://guides.github.com/activities/hello-world/) through the browser portal. Look through as many guides as interest you, [here](https://guides.github.com/). 
 4. [Download](https://desktop.github.com/) the GitHub desktop which allows you to manage/work with your GitHub files offline. Install and set up the desktop version. 
@@ -63,7 +63,8 @@ Atom is a free and simple text editor, useful for working with many different ki
 3. Open Atom and from the Welcome Guide (which should be in an open tab), click on the button "Version control with Git and GitHub". Following the instructions to sign onto your Github.
 3. Next find your repository "medieval-book" on your hard drive. And open the README.md file with Atom. This short text file has a header (Medieval Book", some text and then some bullet points with names. Following the format used for previous names, add your name and a link to Github profile. 
 4. Save the file.
-5. Open Github desktop. It should already have noted that the README.md file has changed. In the "Summary" field. Add something like "Added my name", then press the "Commit to master" button at the buttom left hand corner. Then 
+5. Open the Github desktop. It should already have noted that the README.md file has changed. In the "Summary" field. Add something like "Added my name", then press the "Commit to master" button at the buttom left hand corner. Then press the "Push Origin" button at the top right (same button you previously used it to fetch, now with a different caption).
+6. If I've laid this out properly (**Kate?**), we should be able to merge these all, so that we get a list of all the contributors.
 
 # Zotero
 
