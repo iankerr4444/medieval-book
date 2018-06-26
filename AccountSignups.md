@@ -6,7 +6,7 @@ One of our first steps is establishing an online public profile. This process wi
 
 # Slack
 
-To help with communication in this class, I want to try to avoid email or cuLearn, but instead will try to centralize communication through Slack. Slack is a group messenger application, that can be installed on your phone and tablet, used on your browser or a desktop app.
+To help with communication in this class, I want to try to avoid email or cuLearn, but instead will try to centralize communication through Slack. Slack is a group messenger application that can be installed on your phone and tablet, used on your browser or a desktop app.
 
 1. Download desktop apps [here](https://slack.com/downloads/) and other versions depending on the OS of your mobile device.
 2. Sign in to our slack group – following the link I will send out after our first class.
