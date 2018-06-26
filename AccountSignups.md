@@ -50,6 +50,13 @@ A help guide for writing .md (Markdown) files. Text files on Github, such as thi
 
 # Zotero
 
+Zotero is a research tool, free to use, which allows users to "collect, organize, cite, and share research", as they say on their [website](https://www.zotero.org/). Zotero is particularly useful for organizing research as it allows you to browse the web and, with the click of a button, save websites, pdf's, etc. to the program, along with all the necessary bibliographic data. It also will automatically export this information as bibliographies or footnotes. 
+
+1. You will need to sign up for an account here.
+2. You will need to download the free software [here](https://www.zotero.org/download/). You will need to download and install the software on your computer. Zotero works best if you also install the plugin on your internet browser, to enable you to add content to your repository with a single click.
+3. You should join the Zotero group for the class, which allows us to organize content as a group. The group can be found [here](https://www.zotero.org/groups/2168566/digital_archiving_medieval_manuscripts). 
+
+
 # Hypothes.is
 
 # Google Calendar
