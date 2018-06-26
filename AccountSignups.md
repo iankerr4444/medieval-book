@@ -63,7 +63,7 @@ Atom is a free and simple text editor, useful for working with many different ki
 3. Open Atom and from the Welcome Guide (which should be in an open tab), click on the button "Version control with Git and GitHub". Following the instructions to sign onto your Github.
 3. Next find your repository "medieval-book" on your hard drive. And open the README.md file with Atom. This short text file has a header (Medieval Book", some text and then some bullet points with names. Following the format used for previous names, add your name and a link to Github profile. 
 4. Save the file.
-5. Open Github desktop, and 
+5. Open Github desktop. It should already have noted that the README.md file has changed. In the "Summary" field. Add something like "Added my name", then press the "Commit to master" button at the buttom left hand corner. Then 
 
 # Zotero
 
