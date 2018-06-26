@@ -82,7 +82,7 @@ We will use hypothes.is *via* a plug-in on your Chrome Browser.
 1. If you don't already use Google Chrome, download a free copy [here](https://www.google.ca/chrome/) and install.
 2. Get started with hypothes.is [here](https://hypothes.is/start).
 3. Following the links provided on the Start page, sign up for an account and download/install the plugin.
-4. Go to Slack, look in the Resources channel and follow the link to join the class group, "Digital Archiving". This will allow your classmates to see your comments (but not outsiders).
+4. Go to Slack, look in the #resources channel and follow the posted link to join the class group, "Digital Archiving". This will allow your classmates to see your comments (but not outsiders).
 5. Play around with Hypothes.is. The first step is to view this page with the plugin activated, and **see the final instruction I have posted there**. You might also want to make a separate private folder for comments you want to keep to yourself (or for each research project you are working on this year...). For a sense of what hypothes.is can do, take a look at their [tutorials](https://web.hypothes.is/help-categories/tutorials/).
 
 # Google Calendar
