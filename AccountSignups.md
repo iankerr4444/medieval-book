@@ -23,7 +23,7 @@ Humanities Commons will be a hub for much of our initial activity, your profiles
 
 # ORCID
 
-As it notes on their website, "ORCID provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized." This means you create an indentity which allows your work to be identified as yours (including work completed in this course).
+As it notes on their website, "ORCID provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized." This means you create an identity which allows your work to be identified as yours (including work completed in this course).
 
 1. Register for an account [here](https://orcid.org). Add your level of education and, if you have published something, try to add it to your "Works". Click on "Add Works" button, and click either "search and link" using CrossRef Search or "Add manually".
 2. Add your ORCID identifier to your hcommons profile.
@@ -42,11 +42,28 @@ We want to get you on the Twitter to encourage you to get familiar with what dig
 
 The class will be working together on a Omeka site [here](https://medievalottawa.org). Once you navigate to this site, on the top right hand corner, thre will be the option to "Register". Click on the link and fill out the form. The Omeka user names are private so please use the name by wcich I will know you. You will be sent an email with a link to confirm your email (it will take a few minutes to arrive so be patient). After you click you will be registered as a guest user, which I will update to "researcher" (which gives you more access) as soon I have a chance.
 
+We will talk more in week four about how we will be using Omeka.
+
 # Github
 
-You are currently reading this on Github. So you already know what it looks like. 
+You are currently reading this on Github. So you already know what it looks like. This file is written in "Markdown", a simple text formatting language. For a guide to writing .md (markdown) files, take a look [here](https://help.github.com/categories/writing-on-github/). But your first steps should be:
 
-A help guide for writing .md (Markdown) files. Text files on Github, such as this one, are usually written in this style. https://help.github.com/categories/writing-on-github/
+1. Sign up for a GitHub account - either by going to the top right hand corner of this page and click on the Sign Up link or by clicking (here)[https://github.com/join?source=header-repo].  
+2. Navigate to my [repository](https://github.com/MarcSaurette/medieval-book) and press on the botton "Fork" at the top right hand corner of the page. "Forking" copies the contents of my repository to your own Github repository.
+3. Complete the GitHub [starter guide](https://guides.github.com/activities/hello-world/) through the browser portal. Look through as many guides as interest you, [here](https://guides.github.com/). 
+4. [Download](https://desktop.github.com/) the GitHub desktop which allows you to manage/work with your GitHub files offline. Install and set up the desktop version. 
+5. Press the "Fetch" Button, to download your online files to your hard drive. Locate where these files are on your hard drive for future reference.
+
+# Atom
+
+Atom is a free and simple text editor, useful for working with many different kinds of file formats that we will use this year, including MD, HTML and TEI files.
+
+1. Download Atom [here](https://atom.io/).
+2. Install Atom on your hard drive.
+3. Open Atom and from the Welcome Guide (which should be in an open tab), click on the button "Version control with Git and GitHub". Following the instructions to sign onto your Github.
+3. Next find your repository "medieval-book" on your hard drive. And open the README.md file with Atom. This short text file has a header (Medieval Book", some text and then some bullet points with names. Following the format used for previous names, add your name and a link to Github profile. 
+4. Save the file.
+5. Open Github desktop, and 
 
 # Zotero
 
@@ -56,11 +73,19 @@ Zotero is a research tool, free to use, which allows users to "collect, organize
 2. You will need to download the free software [here](https://www.zotero.org/download/). You will need to download and install the software on your computer. Zotero works best if you also install the plugin on your internet browser, to enable you to add content to your repository with a single click.
 3. You should join the Zotero group for the class, which allows us to organize content as a group. The group can be found [here](https://www.zotero.org/groups/2168566/digital_archiving_medieval_manuscripts). 
 
-
 # Hypothes.is
+
+Hypothes.is is a tool which allows you to annotate web content for your personal research use or, in our case, to allow us to collaborate as a group. It is, in essence, a digital version of you writing notes in the margins of a book/ photocopy. If you open a pdf in your browser, for example, you can annotate it and all your comments are saved in a central 
+We will use hypothes.is *via* a plug-in on your Chrome Browser. 
+
+1. If you don't already use Google Chrome, download a free copy [here](https://www.google.ca/chrome/) and install.
+2. Get started with hypothes.is [here](https://hypothes.is/start).
+3. Following the links provided on the Start page, sign up for an account and download/install the plugin.
+4. Go to Slack, look in the Resources channel and follow the link to join the class group, "Digital Archiving". This will allow your classmates to see your comments (but not outsiders).
+5. Play around with Hypothes.is. The first step is to view this page with the plugin activated, and **see the final instruction I have posted there**. You might also want to make a separate private folder for comments you want to keep to yourself (or for each research project you are working on this year...). For a sense of what hypothes.is can do, take a look at their [tutorials](https://web.hypothes.is/help-categories/tutorials/).
 
 # Google Calendar
 
-We've incorporated the class schedule into an open Google Calendar. It will updated as we go along and you should receive notifications about the class schedule through Slack. 
+We've incorporated the class schedule into an open Google Calendar. It will updated as we go along and you should receive notifications about the class schedule through Slack. You can consult the calendar directly [here](https://calendar.google.com/calendar?cid=MDE5OHQxbzkyYmhwdGlhMjJhbWhobjZhcm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). This link will bring you to google which will ask you to sign onto your gmail account to add to the calendar. If you click on the verticle elipsis (⋮) beside the name "Digital Archiving", and then on "Settings", you can scroll down to the various other options for integrating the calendar into, for example, Outlook or Mac Calendar.
 
 
