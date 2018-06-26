@@ -65,6 +65,7 @@ Atom is a free and simple text editor, useful for working with many different ki
 4. Save the file.
 5. Open the Github desktop. It should already have noted that the README.md file has changed. In the "Summary" field. Add something like "Added my name", then press the "Commit to master" button at the bottom left hand corner. Then press the "Push Origin" button at the top right (same button you previously used it to fetch, now with a different caption).
 6. If I've laid this out properly (**Kate?**), we should be able to merge these all, so that we get a list of all the contributors.
+7. If you want to learn more about Atom, here is a useful and quick [tutorial](https://www.portent.com/blog/content-strategy/atom-markdown.htm).
 
 # Zotero
 
