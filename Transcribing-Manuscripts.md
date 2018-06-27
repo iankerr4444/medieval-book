@@ -4,7 +4,7 @@
 
 The purpose of a transcription is to provide an accurate record of the manuscript  . The transcriber, therefore, should resist the temptation to normalize and thus should reproduce the peculiarities of spelling and even outright errors. Maintain original spelling and punctuation as much as possible, but a transcription is not a fascimile. 
 
-Major Rules:
+## Major Rules:
 
 1. Start a new numbered line in the transcription for every new line in the manuscript, or, use a slash (/) to show line breaks. 
 2. Use capitals where the manuscript uses capitals, even if it differs from modern usage. Personal names in the Middle Ages were not capitalized, and so do not do so in your transcription. 
