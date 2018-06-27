@@ -1,12 +1,12 @@
 # Signing up for Non-University Accounts
 
-In this class, we'll be working with various digital platforms that will allow us to do tackle different parts of working with a digital archive. Our goal in using different platforms is not to make a perfect digital copy (Latin: per "thoroughly" +factus "made/ complete"), but to see how digitization work can look differently depending on expectations and uses.
+In this class, we'll be working with various digital platforms that will allow us to do tackle different parts of working with a digital archive. Our goal in using different platforms is not to make a perfect digital copy (Latin: per "thoroughly" +factus "made/ complete"), but to see how digitization work can look differently depending on uses and expectations.
 
 One of our first steps is establishing an online public profile. This process will require that all students sign up for a number of different accounts (see below) in order to begin to establish a professional and an academic presence. We will set up a profile, first on hcommons.org, using your real name. BUT, if you have a reason to not want to use your real name, please let me know and together we can sort out another option.
 
 # Slack
 
-To help with communication in this class, I want to try to avoid email or cuLearn, but instead will try to centralize communication through Slack. Slack is a group messenger application, that can be installed on your phone and tablet, used on your browser or a desktop app.
+To help with communication in this class, I want to try to avoid email or cuLearn, but instead will try to centralize communication through Slack. Slack is a group messenger application that can be installed on your phone and tablet, used on your browser or a desktop app.
 
 1. Download desktop apps [here](https://slack.com/downloads/) and other versions depending on the OS of your mobile device.
 2. Sign in to our slack group – following the link I will send out after our first class.
@@ -48,7 +48,7 @@ We will talk more in week four about how we will be using Omeka.
 
 You are currently reading this on Github. So you already know what it looks like. This file is written in "Markdown", a simple text formatting language. For a guide to writing .md (markdown) files, take a look [here](https://help.github.com/categories/writing-on-github/). But your first steps should be:
 
-1. Sign up for a GitHub account - either by going to the top right hand corner of this page and click on the Sign Up link or by clicking (here)[https://github.com/join?source=header-repo]. Go to Slack and in the channel, "Github" [integrate your account](https://get.slack.help/hc/en-us/articles/232289568-GitHub-for-Slack).  
+1. Sign up for a GitHub account - either by going to the top right hand corner of this page and click on the Sign Up link or by clicking [here](https://github.com/join?source=header-repo). Go to Slack and in the channel, "Github" [integrate your account](https://get.slack.help/hc/en-us/articles/232289568-GitHub-for-Slack), as easy as typing "/github signin".
 2. Navigate to my [repository](https://github.com/MarcSaurette/medieval-book) and press on the button "Fork" at the top right hand corner of the page. "Forking" copies the contents of my repository to your own Github repository.
 3. Complete the GitHub [starter guide](https://guides.github.com/activities/hello-world/) through the browser portal. Look through as many guides as interest you, [here](https://guides.github.com/).
 4. [Download](https://desktop.github.com/) the GitHub desktop which allows you to manage/work with your GitHub files offline. Install and set up the desktop version.
@@ -65,6 +65,7 @@ Atom is a free and simple text editor, useful for working with many different ki
 4. Save the file.
 5. Open the Github desktop. It should already have noted that the README.md file has changed. In the "Summary" field. Add something like "Added my name", then press the "Commit to master" button at the bottom left hand corner. Then press the "Push Origin" button at the top right (same button you previously used it to fetch, now with a different caption).
 6. If I've laid this out properly (**Kate?**), we should be able to merge these all, so that we get a list of all the contributors.
+7. If you want to learn more about Atom, here is a useful and quick [tutorial](https://www.portent.com/blog/content-strategy/atom-markdown.htm).
 
 # Zotero
 
