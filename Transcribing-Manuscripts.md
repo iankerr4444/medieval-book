@@ -14,6 +14,8 @@ The purpose of a transcription is to provide an accurate record of the manuscrip
 6. Expand abbreviations. 
 7. Record the beginning of a new page in the manuscript by entering the folio number within square brackets at the appropriate point in the transcription. Also record a column letter within square brackers (eg. a, b or c) at the beginning of a new column. 
 
+## Symbols to use
+
 | **symbol** | **description** | **use** | **example** |
 |---|---|---|---|
 | ( ) | Parentheses | Expanded abbreviation | d(omi)ni 
