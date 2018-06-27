@@ -1,6 +1,6 @@
 # Signing up for Non-University Accounts
 
-In this class, we'll be working with various digital platforms that will allow us to do tackle different parts of working with a digital archive. Our goal in using different platforms is not to make a perfect digital copy (Latin: per "thoroughly" +factus "made/ complete"), but to see how digitization work can look differently depending on expectations and uses.
+In this class, we'll be working with various digital platforms that will allow us to do tackle different parts of working with a digital archive. Our goal in using different platforms is not to make a perfect digital copy (Latin: per "thoroughly" +factus "made/ complete"), but to see how digitization work can look differently depending on uses and expectations.
 
 One of our first steps is establishing an online public profile. This process will require that all students sign up for a number of different accounts (see below) in order to begin to establish a professional and an academic presence. We will set up a profile, first on hcommons.org, using your real name. BUT, if you have a reason to not want to use your real name, please let me know and together we can sort out another option.
 
