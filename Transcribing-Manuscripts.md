@@ -1,6 +1,6 @@
 # Transcribing Medieval Documents
 
-(Lightly adapted from the rules suggested in Raymond Clemens and Timothy Graham. [Introduction to Manuscript Studies](http://www.cornellpress.cornell.edu/book/?GCOI=80140100177870). Ithaca: Cornell University Press, 2007.
+(Lightly adapted from the rules suggested in Raymond Clemens and Timothy Graham. [*Introduction to Manuscript Studies*](http://www.cornellpress.cornell.edu/book/?GCOI=80140100177870). Ithaca: Cornell University Press, 2007.
 
 The purpose of a transcription is to provide an accurate record of the manuscript  . The transcriber, therefore, should resist the temptation to normalize and thus should reproduce the peculiarities of spelling and even outright errors. Maintain original spelling and punctuation as much as possible, but a transcription is not a fascimile. 
 
