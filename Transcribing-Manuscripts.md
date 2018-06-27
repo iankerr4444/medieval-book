@@ -13,4 +13,4 @@ The purpose of a transcription is to provide an accurate record of the manuscrip
 | \\\ //	| double slashes |	scribal insertion in the margin | \\\domini//
 | [ ]	| square brackets	| letters canceled by scraping or washing; legible erased letters are placed within the brackets | do[mi]ni |
 | [ / ]	| square brackets and slash	| substitution of a new letter or word over an erasure; if original reading is legible, it is placed to the left of slash | [/d]omini *or* [h/d]omini | 
-| [[]]	| double square brackets |	portion of text lost through damage (trimming of the margin, rodent activity, etc.) | domin`[[*]]` with asterisks indicating the estimated number of letters lost |
+| `[[ ]]`	| double square brackets |	portion of text lost through damage (trimming of the margin, rodent activity, etc.) | domin`[[*]]` with asterisks indicating the estimated number of letters lost |
