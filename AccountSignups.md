@@ -58,9 +58,9 @@ You are currently reading this on Github. So you already know what it looks like
 4. [Download](https://desktop.github.com/) the GitHub desktop which allows you to manage/work with your GitHub files offline. Install and set up the desktop version.
 5. Press the "Fetch" Button, to download your online files to your hard drive. Locate where these files are on your hard drive for future reference.
 
-## Atom or Remarkable
+## Atom or others
 
-[Atom](https://atom.io/) is a free and simple text editor, useful for working with many different kinds of file formats that we will use this year, including MD, HTML and TEI files. If you use Linux, you can also use [Remarkable](https://remarkableapp.github.io) for editing markdown files (.md), which has the benefit of providing a live preview of how the file will look online.
+[Atom](https://atom.io/) is a free and simple text editor, useful for working with many different kinds of file formats that we will use this year, including MD, HTML and TEI files. If you use Linux, you can also use [Remarkable](https://remarkableapp.github.io) for editing markdown files (.md), which has the benefit of providing a live preview of how the file will look online. [Visual Studio Code](https://code.visualstudio.com) is another option for Linux, Windows and Mac; with a bit of work it can also be configured to provide a live preview. 
 
 1. Download Atom [here](https://atom.io/).
 2. Install Atom on your hard drive.

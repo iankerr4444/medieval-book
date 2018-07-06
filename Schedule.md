@@ -119,6 +119,16 @@ Week 18. Reconstructing deconstructed images (how to make exhibits)
 Week 19. TEI
 
 -Shane Hawkins/ Shamus comes in to talk about project
--exercise taken from DLL, modified to add CHarter 2 Materials
+-exercise taken from DLL, modified to add Charter 2 Materials
 -get TEI visualized on Github as edition?
 -export from Transkribus and edit on Atom ...
+
+Week 20. How to ensure longevity/ accessibility
+
+-Librarian visit?
+
+Week 21 and 22. Free work/ Meeting with Professor
+
+Weeks 23 and 24. Student Presentations.
+
+Week 25.

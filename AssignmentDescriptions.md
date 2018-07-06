@@ -2,7 +2,9 @@
 
 ## Participation
 
+## Weekly Assignments
 
+## Feedback on blogs ...
 
 Using hypothesis to provide feedback
 
