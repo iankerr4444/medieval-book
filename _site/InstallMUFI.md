@@ -6,7 +6,7 @@ Transcribing by hand means that once you have deciphered the text you can reprod
 
 Setting up your computer to use unicode and have access to historical fonts takes a few steps, but is straightforward. To use unicode for medieval scripts, however, is a bit more arcane; you might feel like you're a codebreaker trying to crack the Enigma device. As part of this process, we'll put together a list of the most typical characters you'll use in transcribing your folios.
 
-To use medieval characters in your transcriptions, download two codebooks for (letters](http://bora.uib.no/bitstream/handle/1956/10699/MUFI-Alphabetic-4-0.pdf) and other [characters](http://bora.uib.no/bitstream/handle/1956/10699/MUFI-CodeChart-4-0.pdf). Like Capelli's guide to medieval abbreviations, these allow you to choose specific characters to match what you see on the page. Before you can use them, however, you will need to get set up to use unicode.
+To use medieval characters in your transcriptions, download the two MUFI codebooks organized by [letters](http://bora.uib.no/bitstream/handle/1956/10699/MUFI-Alphabetic-4-0.pdf) and other symbols and [characters](http://bora.uib.no/bitstream/handle/1956/10699/MUFI-CodeChart-4-0.pdf). Like Capelli's guide to medieval abbreviations, these allow you to choose specific characters to match what you see on the page. Before you can use them, however, you will need to get set up to use unicode.
 
 ## Setting up Unicode to run on your machine.
 
@@ -21,5 +21,5 @@ To use medieval characters in your transcriptions, download two codebooks for (l
 
 ## Working with MUFI Unicode
 
-1. By this point, you should already have completed a handwritten transcription of your folio. Your goal now is to write it out as an abbreviated text using the now available (to you) unicode characters. Go!
+1. By this class, you should already have completed a handwritten transcription of your folio. Your goal now is to write it out as an abbreviated text using the now available (to you) unicode characters. Go!
 2. Post the completed file in your personal Github repository as a pdf, named "LastName-MsX-UnicodeTranscription" (where LastName is replaced by your last name, and X [of MsX] is replaced the number of your folio).
