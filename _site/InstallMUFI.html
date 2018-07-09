@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Digital Transcription | medieval-book</title>
+<meta name="generator" content="Jekyll v3.7.3" />
+<meta property="og:title" content="Digital Transcription" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Work in progress, developing a site to display and catalogue medieval manuscripts at Carleton University (Ottawa)" />
+<meta property="og:description" content="Work in progress, developing a site to display and catalogue medieval manuscripts at Carleton University (Ottawa)" />
+<link rel="canonical" href="http://localhost:4000/InstallMUFI.html" />
+<meta property="og:url" content="http://localhost:4000/InstallMUFI.html" />
+<meta property="og:site_name" content="medieval-book" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/InstallMUFI.html","headline":"Digital Transcription","description":"Work in progress, developing a site to display and catalogue medieval manuscripts at Carleton University (Ottawa)","@type":"WebPage","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=30a9e4cf73cc57447b049d8563f48a56280ea4b2">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="http://localhost:4000/">medieval-book</a></h1>
+        
+        
+
+        <p>Work in progress, developing a site to display and catalogue medieval manuscripts at Carleton University (Ottawa)</p>
+
+        
+        <p class="view"><a href="http://github.com/MarcSaurette/medieval-book">View the Project on GitHub <small>MarcSaurette/medieval-book</small></a></p>
+        
+
+        
+
+        
+      </header>
+      <section>
+
+      <h1 id="digital-transcription">Digital Transcription</h1>
+
+<p>Our word <em>alphabet</em> comes from the names of the first two letters of the Greek alphabet (Alpha + Beta). In Latin, the alphabet was called an <em>abecedarium</em> (A, Be, Ce, D -arium) from the names of the first four letters in the Latin alphabet. Transcribing needs so much more than Modern English’s 26 letters, however.</p>
+
+<p>Transcribing by hand means that once you have deciphered the text you can reproduce easily and quickly what you see on the page. A digital transcription that retains the characters/ glyphs of the original text, however, is more difficult, as you will need to use a special characters atypical in modern usage. Two decades ago, there was not an option to use non-standard Latin characters on your computer, but in the past decade we have seen considerable advances in establishing standards for a wider range of characters (in the Latin alphabet, but also in Runic and non-Western alphabets).  We will access these characters in <strong><a href="https://en.wikipedia.org/wiki/Unicode_input">unicode</a></strong>. We can thank a small group of dedicated scholars who founded the Medieval Unicode Font Initiative ((MUFI)[https://folk.uib.no/hnooh/mufi/]), which has set out to make a diverse range of manuscript characters reproducible digitally.</p>
+
+<p>Setting up your computer to use unicode and have access to historical fonts takes a few steps, but is straightforward. To use unicode for medieval scripts, however, is a bit more arcane; you might feel like you’re a codebreaker trying to crack the Enigma device. As part of this process, we’ll put together a list of the most typical characters you’ll use in transcribing your folios.</p>
+
+<p>To use medieval characters in your transcriptions, download two codebooks for (letters](http://bora.uib.no/bitstream/handle/1956/10699/MUFI-Alphabetic-4-0.pdf) and other <a href="http://bora.uib.no/bitstream/handle/1956/10699/MUFI-CodeChart-4-0.pdf">characters</a>. Like Capelli’s guide to medieval abbreviations, these allow you to choose specific characters to match what you see on the page. Before you can use them, however, you will need to get set up to use unicode.</p>
+
+<h2 id="setting-up-unicode-to-run-on-your-machine">Setting up Unicode to run on your machine.</h2>
+
+<ol>
+  <li>Set up your device to use unicode. On my Mac, I first enabled Unicode Hex Input in System Preferences -&gt; Keyboard -&gt; Input Sources (more detailed <a href="https://poynton.ca/notes/misc/mac-unicode-hex-input.html">instructions here</a>). The wikipedia article on <a href="https://en.wikipedia.org/wiki/Unicode_input">unicode</a> outlines how to enable unicode on different platforms.</li>
+  <li>Download a font that will allow you to use medieval unicode features (a much wider base of characters than one normally uses) from <a href="https://folk.uib.no/hnooh/mufi/fonts/index.html">options</a> suggested by MUFI.  I would suggest you download and install the <a href="https://folk.uib.no/hnooh/mufi/fonts/Andron/AND_SCR_WEB_3.0.zip">Andron</a> font, but <a href="http://junicode.sourceforge.net/">Junicode</a> and <a href="http://titus.fkidg1.uni-frankfurt.de/unicode/tituut.asp">Titus</a> also work well.</li>
+  <li>It should be as easy as double clicking on the file(s) to add them to a Mac or Windows computer. If you are using Linux, in takes a few more <a href="https://askubuntu.com/questions/3697/how-do-i-install-fonts">steps</a>.</li>
+  <li>Open up a word processor and after selecting the font you have installed, attempt to type some medieval characters, many of which can’t be reproduced in markdown (and thus can’t be shown here).</li>
+</ol>
+
+<ul>
+  <li>With the option key held down, type EEC5. This should input a small ligature ct (i.e. a c and t together linked by a little curvy pen flourish).</li>
+  <li>You should see something that looks like “đ” (a small letter d with cross stroke), if you hold down the option key and type “0111”.</li>
+  <li>Looking through the two MUFI code books you have downloaded, look for and try out other characters. Not all characters will be the same as indicated in the codebook (some fonts like Junicode, were completed before the most recent standards were set).</li>
+</ul>
+
+<h2 id="working-with-mufi-unicode">Working with MUFI Unicode</h2>
+
+<ol>
+  <li>By this point, you should already have completed a handwritten transcription of your folio. Your goal now is to write it out as an abbreviated text using the now available (to you) unicode characters. Go!</li>
+  <li>Post the completed file in your personal Github repository as a pdf, named “LastName-MsX-UnicodeTranscription” (where LastName is replaced by your last name, and X [of MsX] is replaced the number of your folio).</li>
+</ol>
+
+
+      </section>
+      <footer>
+        
+        <p>This project is maintained by <a href="http://github.com/MarcSaurette">MarcSaurette</a></p>
+        
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="/assets/js/scale.fix.js"></script>
+    
+  </body>
+</html>
