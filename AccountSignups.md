@@ -12,7 +12,7 @@ To help with communication in this class, I want to try to avoid email or cuLear
 
 1. Download desktop apps [here](https://slack.com/downloads/) and other versions depending on the OS of your mobile device.
 2. Sign in to our slack group – following the link I will send out after our first class.
-3. Click on "Channels" in the sidebar (on desktop or browser versions). It should say "Browse all channels" if you hover your cursor over it. Add yourself to all public channels you can.
+3. Click on the header "Channels" in the sidebar (on desktop or browser versions). It should say "Browse all channels" if you hover your cursor over it. Add yourself to all the public channels you can, by clicking on a channel and then pressing the "Join" button. These channels will now remain in your sidebar, updating you on contributions people make.
 
 ## Humanities Commons
 
@@ -60,7 +60,7 @@ You are currently reading this on Github. So you already know what it looks like
 
 ## Atom or others
 
-[Atom](https://atom.io/) is a free and simple text editor, useful for working with many different kinds of file formats that we will use this year, including MD, HTML and TEI files. If you use Linux, you can also use [Remarkable](https://remarkableapp.github.io) for editing markdown files (.md), which has the benefit of providing a live preview of how the file will look online. [Visual Studio Code](https://code.visualstudio.com) is another option for Linux, Windows and Mac; with a bit of work it can also be configured to provide a live preview. 
+[Atom](https://atom.io/) is a free and simple text editor, useful for working with many different kinds of file formats that we will use this year, including MD, HTML and TEI files. If you use Linux, you can also use [Remarkable](https://remarkableapp.github.io) for editing markdown files (.md), which has the benefit of providing a live preview of how the file will look online. [Visual Studio Code](https://code.visualstudio.com) is another option for Linux, Windows and Mac; with a bit of work it can also be configured to provide a live preview.
 
 1. Download Atom [here](https://atom.io/).
 2. Install Atom on your hard drive.
