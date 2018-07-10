@@ -12,7 +12,7 @@ The images are available at URLs like:
 
     https://viewer.library.carleton.ca/2018-07-07-hist4006-manuscriptimages/ARC_manuscript_1_10R.JPG
 
-You can see an example of an IIIF client (Openseadragon) which has been configured to display the .tif files here:
+You can see an example of an IIIF client (OpenSeadragon) which has been configured to display the .tif files here:
 
     https://viewer.library.carleton.ca/2018-07-07-hist4006-manuscriptimages/view.html
 
