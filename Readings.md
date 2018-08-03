@@ -6,6 +6,14 @@ No readings. Come prepared to meet your classmates, talk about yourself, and loo
 ### 2. Establishing an Online Presence: Blogs and Twitter
 This class is devoted to considering how and why you might want to develop an online presence as an individual, but also as heritage institution. We’ll dip out toes into the online world by signing up for an hcommons.org profile, preparing to write blog posts and beginning to Tweet.
 
+Jesse Stommel, "Promoting Open Access Publications and Academic Projects" http://hybridpedagogy.org/promoting-open-access-publications-and-academic-projects/
+
+Ricoy. M. C., & Feliz, T., "Twitter as a Learning Community in Higher Education." *Educational Technology & Society*, 19.1 (2016), 237–248. (posted on cuLearn)
+
+Sarah Warner, "How to Destroy Special Collections with Social Media," (31 July 2015): http://sarahwerner.net/blog/2015/07/how-to-destroy-special-collections-with-social-media/
+
+British Library, *Medieval Manuscripts Blog*, http://blogs.bl.uk/digitisedmanuscripts/index.html 
+
 ### 3. What Kind of Website Does Your Project Need?
 In recent years, there have arisen so many platforms for hosting DH projects that it is difficult to know which to choose. We will be looking at how WordPress and Omeka function –the two main platforms we will be using this term- and how they differ (for better or worse) from their alternatives.
 
