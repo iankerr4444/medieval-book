@@ -1,9 +1,10 @@
-# Medieval Book
-This repository/ site supports the 2018/19 undergraduate seminar HIST 4006a (Digitizing the Medieval Book). This repository will contain information on how to display and catalogue medieval manuscripts and folios in the possession of Carleton University (Ottawa).
+# Peter the Venerable
+Petrus Venerabilis - Pierre le Vénérable
+****
+This repository/ site contains material for an on-going collaborative project to edit and translate the works of the twelfth-century Cluniac abbot, Peter the Venerable.
+This repository will contain information on how to display and catalogue medieval manuscripts and folios in the possession of Carleton University (Ottawa).
 
-The various pages in this repository will explain the assignments and exercises for completing the course.
 
 The people contributing to this project include:
 
 - [Marc Saurette](https://github.com/MarcSaurette)
-- [Kate Brasseur](https://github.com/kateBrasseur)
